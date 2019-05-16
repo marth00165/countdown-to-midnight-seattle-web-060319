@@ -2,7 +2,9 @@
 
 def countdown(num)
   
-  while num > log10
+  while num > 0 
+  
+  puts
   
   
 end
